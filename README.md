@@ -283,13 +283,13 @@ Item # | Description | Completed
 1a | 1st Favorite emoji | 🧛
 1b | Link to `commit #1 from Github.com` |<a href="https://github.com/grmcguire/learn-git-milestones/edit/main/README.md#L283">Commit #1</a>
 1c | Link to markdown tables docs | <a href="https://blog.jakelee.co.uk/displaying-complex-content-inside-jekyll-tables/">Markdown Tables Doc</a>
-1d | What does `log` do? | It displays all of the commit histories in a repository
+1d | What does `log` do? | Show commit logs
 2a | 2nd Favorite emoji |🦪
 2b | Link to `commit #2 from Github Desktop` |<a href="https://github.com/grmcguire/learn-git-milestones/edit/main/README.md#L287">Commit #2</a>
-2c | Full path to your working directory |
-2d | Link to `commit #3 from CLI` |
+2c | Full path to your working directory | vscode://file/c:/README.md/
+2d | Link to `commit #3 from CLI` |<a href="https://github.com/grmcguire/learn-git-milestones/edit/main/README.md#L290">Commit #3</a>
 2e | 3rd Favorite emoji | 🪜
-2f | Link to `commit #4 from VS Code` |
+2f | Link to `commit #4 from VS Code` |<a href="https://github.com/grmcguire/learn-git-milestones/edit/main/README.md#L292">Commit #4</a>
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 
