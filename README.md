@@ -285,7 +285,7 @@ Item # | Description | Completed
 1c | Link to markdown tables docs | <a href="https://blog.jakelee.co.uk/displaying-complex-content-inside-jekyll-tables/">Markdown Tables Doc</a>
 1d | What does `log` do? | It displays all of the commit histories in a repository
 2a | 2nd Favorite emoji |🦪
-2b | Link to `commit #2 from Github Desktop` |
+2b | Link to `commit #2 from Github Desktop` |<a href="https://github.com/grmcguire/learn-git-milestones/edit/main/README.md#L287">Commit #2</a>
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji | 🪜
